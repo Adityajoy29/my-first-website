@@ -1,0 +1,32 @@
+h1 {
+    color: red;
+    border: 8px solid gold;
+}
+h2 {
+    color: green;
+    border: 8px solid gold;
+}
+hr {
+    color: gold;
+    border: 8px solid orange;
+    margin: 20px 0;
+}
+button {
+    color: lightseagreen;
+    border: 2px solid red;
+    width: 20%;
+    height: 50px;
+    margin-top: 10px;
+}
+body {
+    font-family: Arial, sans-serif;
+    line-height: 1.6;
+    margin: 20px;
+    border: 10px solid springgreen;
+    padding: 10px;
+    background-image: url(photo-1585432959449-b1c9c8cc49ac.avif);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed
+}
